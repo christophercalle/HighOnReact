@@ -1,0 +1,50 @@
+.curse {
+    background-color: #DDDEE1;
+    color: #55595F;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+}
+
+.watchkit {
+    color: 2779C7;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.par-title {
+    color: #005ec9; 
+    font-weight: bold;
+}
+
+.body {
+    color: #000;
+}
+
+.comments {
+    background-color: #F39017;
+    color: #FFF;
+    display: flex;
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 25px; 
+    height: 3px; 
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.menu {
+    background-color: #52A7FA;
+    color: #FFF; 
+    display: flex;
+    list-style: none;
+    margin-top: -.1%;
+}
+
+.menu li {
+    width: 100px;
+    padding: 30px;
+    font-weight: bold;
+    margin-left: 5%;
+    font-size: 150%;
+}
